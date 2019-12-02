@@ -6,6 +6,9 @@
     <br>
 </p>
 
+<h3>database file is given. first import the issue.sql file and run the project, you are good to go.</h3>
+</hr>
+
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
 
